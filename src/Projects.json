@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Campus Thrift (Unithrift)",
+    "description": "A web app that allows students to buy and sell items on campus with ease.",
+    "tech": ["React", "Tailwind", "Node.js", "Express", "SQL server"],
+    "link": "https://github.com/your-username/unithrift",
+    "image": "/assets/unithrift.png"
+  },
+  {
+    "id": 2,
+    "title": "Student Grading System",
+    "description": "A VB.NET application that manages student bio-data, scores, and generates reports.",
+    "tech": ["VB.NET", "SQL Server"],
+    "link": "https://github.com/your-username/grading-system",
+    "image": "/assets/grading.png"
+  },
+  {
+    "id": 3,
+    "title": "Personal Portfolio Website",
+    "description": "Responsive portfolio site built with React and TailwindCSS to showcase my projects and skills.",
+    "tech": ["React", "TailwindCSS", "Vite"],
+    "link": "https://github.com/your-username/portfolio",
+    "image": "/assets/portfolio.png"
+  },
+  {
+    "id": 4,
+    "title": "React Job Board",
+    "description": "A job listing application where users can browse, filter, and apply for jobs. Built with React and TailwindCSS.",
+    "tech": ["React", "TailwindCSS", "Vite"],
+    "link": "https://github.com/your-username/react-job-board",
+    "image": "/assets/jobboard.png"
+  },
+  {
+    "id": 5,
+    "title": "Real-Time Chat App",
+    "description": "A real-time chat application with user authentication, chat rooms, and private messaging.",
+    "tech": ["React", "Node.js", "Express", "Socket.io", "MongoDB"],
+    "link": "https://github.com/your-username/chat-app",
+    "image": "/assets/chatapp.png"
+  }
+]
